@@ -1,7 +1,7 @@
 token=""
 user_name="LucasFurioFranco"
 user_mail="lucasfuriofranco@gmail.com"
-repo_name="brobath_docker_www"
+repo_name="brobath_docker_api"
 
 #https://stackoverflow.com/questions/18935539/authenticate-with-github-using-a-token
 git config --global user.name ${user_name}
